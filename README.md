@@ -1,1 +1,5 @@
 # King-League
+
+El proyecto de big data para descargar los resultados de la 'Kings League' se enfocará en recolectar y analizar datos de partidos y equipos en tiempo real. Utilizaremos Airflow para automatizar la descarga de datos desde diversas fuentes. Una vez descargados los datos, se limpiarán y transformarán para ser cargados en Snowflake, una plataforma de datos en la nube que nos permitirá almacenar y analizar grandes cantidades de datos de manera eficiente.
+
+Con estos datos, podremos realizar análisis avanzados para obtener información valiosa sobre los equipos y jugadores, como tendencias de rendimiento, estadísticas de juego y pronósticos de resultados. También podremos crear visualizaciones y dashboards interactivos para que los fanáticos de la liga puedan explorar los datos de manera sencilla y entender mejor a sus equipos favoritos. En resumen, este proyecto nos permitirá obtener una visión más completa y detallada de la 'Kings League' y mejorar la experiencia de los fanáticos de la liga.
